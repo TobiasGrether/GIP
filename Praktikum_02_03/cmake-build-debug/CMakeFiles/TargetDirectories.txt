@@ -1,0 +1,3 @@
+C:/Users/tobia/CLionProjects/Praktikum_02_03/cmake-build-debug/CMakeFiles/Praktikum_02_03.dir
+C:/Users/tobia/CLionProjects/Praktikum_02_03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tobia/CLionProjects/Praktikum_02_03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
